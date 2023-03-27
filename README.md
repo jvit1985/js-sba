@@ -21,6 +21,8 @@
   Here are the installation instructions for this project:
   open the page from github
   
+  https://jvit1985.github.io/js-sba/
+  
 
   ## Usage
   Here are the instructions and examples of how to use this project:
